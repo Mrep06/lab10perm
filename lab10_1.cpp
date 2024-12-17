@@ -3,7 +3,7 @@ using namespace std;
 
 int main(){
     string grade;
-    int A = 0,B =0,C =0,D =0,F = 0;
+    int A = 0,B = 0,C = 0,D = 0,F = 0;
 	int count[5] = {A,B,C,D,F}; //Declare array count for counting A,B,C,D,F and initialize all element = 0
 	cout << "Please input grade of each student (A-F) or input 0 to exit." << endl;
 	int i = 1;
